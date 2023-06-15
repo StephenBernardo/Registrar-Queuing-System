@@ -1,6 +1,6 @@
 # Registrar-Queuing-System
 
-This is our capstone project. It is created with the use of web frameworks, I am mostly assigned in handling data and managing database which is MySQL.
+This is our capstone project together with out head programmer Patrick Caparas(https://github.com/cappat-cmyk), Web developer, Programmer, Web Desinger Christian Luiz Almazora (https://github.com/christianluisalmazora)  Web developer, Programmer, Web Desinger (Christian Almendral). It is created with the use of web frameworks, I am mostly assigned in handling data and managing database which is MySQL.
 Upon the development, we use XAMPP to hosts our trial web application. Some of the Languages and markups used are:
 
 - HTML5
@@ -69,6 +69,9 @@ Login Screenshots
 
 TV Display Screenshot
 ![queue-tv-display](https://github.com/cappat-cmyk/Registrar-Queuing-System/assets/76167342/15851649-4a4c-49ca-a29c-788cb179520f)
+
+Proof of Deployment: gdrive link 
+(https://drive.google.com/drive/folders/1g9QTJNA87Cfe_V6Id91D3_FU6cEJTTiQ?usp=sharing)
 
 
 
