@@ -1,6 +1,6 @@
 # Registrar-Queuing-System
 
-This is our capstone project together with out head programmer Patrick Caparas(https://github.com/cappat-cmyk), Web developer, Programmer, Web Desinger Christian Luiz Almazora (https://github.com/christianluisalmazora)  Web developer, Programmer, Web Desinger (Christian Almendral). It is created with the use of web frameworks, I am mostly assigned in programming some pages of our web application, designing our web pages and in-charge of hardware testing regarding the kiosk, TV monitor, printer. 
+This is our capstone project together with our head programmer Patrick Caparas(https://github.com/cappat-cmyk), Web developer, Programmer, Web Desinger Christian Luiz Almazora (https://github.com/christianluisalmazora)  Web developer, Programmer, Web Desinger (Christian Almendral). It is created with the use of web frameworks, I am mostly assigned in programming some pages of our web application, designing our web pages and in-charge of hardware testing regarding the kiosk, TV monitor, printer. 
 Upon the development, we use XAMPP to hosts our trial web application. Some of the Languages and markups used are:
 
 - HTML5
